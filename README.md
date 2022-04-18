@@ -1,3 +1,3 @@
 # Login-And-Registration
 
-https://github.com/michaelnlay/Login-And-Registration/blob/master/loginreg.JPG
+![alt text](https://github.com/michaelnlay/Login-And-Registration/blob/master/loginreg.JPG?raw=true)
